@@ -3,5 +3,6 @@
 - create react app
 - react router-dom
 - react-toast
-- react-toast
+- react-boostrap
+- react-icons
 
